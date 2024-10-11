@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(My Portfolio)[https://portfolio-ykusanos-projects.vercel.app/]
+[My Portfolio](https://portfolio-ykusanos-projects.vercel.app/)
 
 <!--
 **deerman31/deerman31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
